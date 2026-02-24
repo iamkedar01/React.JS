@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'helvetica neue';
+    color: #fff;
+}
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+body{
+  background-color: #111;
+}
+
+.card{
+  background-color: rgb(153, 75, 88);
+  border-radius: 10px; /* the border radius is used to cut the edage of the border  */
+  margin:20px; 
+  padding: 20px; /* the padding is used to add the text inside the box */
+}
+
+.nav{
+  background-color: skyblue;
+  margin:5px; 
+  padding: 5px;
+}
